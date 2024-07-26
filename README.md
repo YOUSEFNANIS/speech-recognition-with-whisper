@@ -10,4 +10,4 @@ Quantization involves reducing the precision of the model's weights and activati
 
 These techniques enable the fine-tuning and deployment of large models like Whisper on hardware with limited resources, such as GPUs with lower VRAM. For further details on LoRA and quantization. 
 You can refer to the LoRA research paper https://arxiv.org/abs/2106.09685, 
-and this https://huggingface.co/docs/optimum/concept_guides/quantization Hugging Face blog on quantization.
+and this https://huggingface.co/docs/optimum/concept_guides/quantization Hugging Face tutorial on quantization.
